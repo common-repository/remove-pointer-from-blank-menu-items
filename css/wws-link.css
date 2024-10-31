@@ -1,0 +1,4 @@
+li.menu-item a:hover:not([href]) {
+	text-decoration: none;
+	cursor: default;
+}
